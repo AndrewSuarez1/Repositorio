@@ -5,3 +5,4 @@
 <p> CUATRO 4: PAR </p>
 <p> CINCO 5: IMPAR </p>
 <p> SEIS 6: PAR </p>
+<p> SIETE 7: IMPAR </p>
